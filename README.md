@@ -47,6 +47,6 @@ Below, you can find the gifs of the projects
 
 ![ezgif com-crop](https://github.com/themertcankaya/pokemons/assets/123226376/cc322aaa-90eb-4169-8a92-8fbc197e3eb4)
 
-### Challenge 10 : Cart
+### Challenge 11 : Cart
 
 ![ezgif com-crop (4)](https://github.com/Asabeneh/30-Days-Of-JavaScript/assets/123226376/f80ee951-4887-4fdf-a41b-b5b1dd23f2e0)
